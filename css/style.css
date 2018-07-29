@@ -92,19 +92,30 @@ h3 {
   font-size: 120%;
 }
 
+
 .location {
-  padding-top: 3%;
+	padding-top: 3%;
 	padding-bottom: 3%;
 	padding-left:5%;
 	padding-right:5%;
   border-bottom-style: solid;
   border-width: thin;
   border-color: #B0B0B0;
+	display: inline-block;
+	width: 420px;
+}
+
+.content {
+	width: 300px;
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
 }
 
 .location:hover {background-color:#A0A0A0;}
 
 .arrow {
-  display: inline-block;
-  align: right;
+	width: 30px;
+	margin: 0px;
+	padding: 0px;
 }
