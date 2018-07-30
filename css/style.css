@@ -106,16 +106,14 @@ h3 {
 }
 
 .content {
-	width: 300px;
-	border: 0px;
-	margin: 0px;
-	padding: 0px;
+	width: 96%;
+	float: left;
 }
 
 .location:hover {background-color:#A0A0A0;}
 
 .arrow {
-	width: 30px;
-	margin: 0px;
-	padding: 0px;
+	width: 4%;
+	margin-top: 3%;
+	display: inline-block;
 }
